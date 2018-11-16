@@ -1,0 +1,12 @@
+name: py3
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - jupyter=1.0.0
+  - matplotlib=3.0.1
+  - netcdf4=1.4.2
+  - notebook=5.7.0
+  - numpy=1.15.4
+  - python=3.6
+  - xarray=0.11.0
